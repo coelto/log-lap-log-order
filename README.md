@@ -17,7 +17,9 @@ The repository contains the PDF of the paper, a list of checksums `SHA256SUMS` a
 | File | Size, bytes | SHA-256 | MD5 |
 |---|---|---|---|
 | `chekmachev-logarithmic-laplacian-and-operators-of-logarithmic-order.pdf` | 854624 | `1bad3447ce51e8bcc5e1010aef972ea4b2f45f6cb3e608102690662cebdafd1e` | `6eb7c85bf4404c1a5356dc7ccd6c438e` |
-| `chekmachev-logarithmic-laplacian-and-operators-of-logarithmic-order.pdf.ots` | 770 | `5f948a7dd908cb84a3752bfeb68b4c9102565bf53a449f03b1db36e4dc06fde4` | `1a0894c2a32c88d0e311b3bac4c7b8d5` |
+| `chekmachev-logarithmic-laplacian-and-operators-of-logarithmic-order.pdf.ots` | 2702 | `d7543e9719c4815ddf6209a9dfb153dd0847f26a79a41f26069f344ffb14e255` | `a80c2cdaf8f75653dad9b1aec74d9999` |
+
+OpenTimestamps time (UTC): 2026-11-13 14:04:19.
 
 ## Version history
 
@@ -25,7 +27,7 @@ Each version of the paper is a separate version of a single Zenodo record with i
 
 | Version | Publication date | DOI |
 |---|---|---|
-| 1.0 (this version) | — | [10.5281/zenodo.24192859](https://doi.org/10.5281/zenodo.24192859) |
+| 1.0 (this version) | 2026-11-13 | [10.5281/zenodo.24192859](https://doi.org/10.5281/zenodo.24192859) |
 
 ## Verification
 
